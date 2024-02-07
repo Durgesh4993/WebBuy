@@ -3,7 +3,7 @@
 </div>
 
 ---
-# Problem Statement:
+## Problem Statement:
 * THEME: Retail & Logistics
 
 * PROBLEM NAME: Conversational interface
@@ -16,4 +16,5 @@ The conversational interface should provide interaction through natural language
 
 ---
 
-
+## Solution:
+* Our solution is creating an interface between Seller and Consumer where they can directly interact with each other and chat (By Text & Audio) using our website the consumers get satisfactory answers from the seller side and they get surety about the products. And from the seller's perspective the chances are increased that a person can come back to purchase the product. Let we see prototype of our website, using prototype it will be easy to understandable .
