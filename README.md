@@ -60,3 +60,12 @@ We have multiple feature in our webslite be like
 - Secured Payment
 - Login using Email or Metamask
 
+---
+
+## Tech Stack Used:
+
+<p align="center">
+<img width="917" alt="image" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/b88ebc7c-d326-4e44-aa70-988187b80ef0">
+</p>
+
+
