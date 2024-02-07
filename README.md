@@ -29,3 +29,12 @@ The conversational interface should provide interaction through natural language
 
 > Using Admin connect with sallesman
 
+### Direct Connect with Sallesman:
+
+In a Direct Connect with Salesman we provide an interface for Saller & Consumer and Manager. Saller has a unique name when they upload their product, which can be provided in a detailed section for consumers. Using that name they can directly connect with the salesman and ask any question. In this Managers can able to ban or restrict those person who is doing spams.
+
+<p align="center">
+<img width="917" alt="image" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/5b896251-79f0-4622-907b-76288b6041ed">
+</p>
+
+
