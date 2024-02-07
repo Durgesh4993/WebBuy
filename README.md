@@ -89,9 +89,10 @@ https://github.com/Durgesh4993/WebBuy/assets/98798977/8c919095-af48-4bb8-bb54-ed
 
 ---
 <p align="center">
- <img width="100%" alt="image" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/71a21637-fd2e-45cd-9630-eab50cbca067">
+ Thank You 🫶
 </p>
  
+
 
 
 
