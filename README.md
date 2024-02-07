@@ -19,5 +19,13 @@ The conversational interface should provide interaction through natural language
 ## Solution:
 * Our solution is creating an interface between Seller and Consumer where they can directly interact with each other and chat (By Text & Audio) using our website the consumers get satisfactory answers from the seller side and they get surety about the products. And from the seller's perspective the chances are increased that a person can come back to purchase the product. Let we see prototype of our website, using prototype it will be easy to understandable .
 
-<img width="100%" alt="Screenshot 2024-01-30 174436" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/41faa59a-bdba-46cc-a1ee-f876a270ca4a">
+<p align="center">
+<img width="600px" alt="Screenshot 2024-01-30 174436" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/41faa59a-bdba-46cc-a1ee-f876a270ca4a">
+</p>
+
+* According to the Prototype we have two different way for for conveartation between customer and saller:
+
+> Direct Connect with Sallesman
+
+> Using Admin connect with sallesman
 
