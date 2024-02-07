@@ -37,11 +37,26 @@ In a Direct Connect with Salesman we provide an interface for Saller & Consumer 
 <img width="917" alt="image" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/5b896251-79f0-4622-907b-76288b6041ed">
 </p>
 
-### Indirect connect with sallesman
+### Indirect connect with sallesman:
 
 In a Indirect connection with a salesman, Using APIs we can assigned a member who can connect with the salesman and they will ask questions on behalf of you and provide information and also if you have any Complaint regarding product or Saller you can also register.
 
 <p align="center">
 <img width="917" alt="image" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/236a581d-160c-4e42-b9ae-74aa459b075e">
 </p>
+
+---
+
+## Aditional Features: 
+
+We have multiple feature in our webslite be like
+- Product Catalog
+- Product/Order Management
+- Shopping cart Management 
+- 24*7 Chatbot Support
+- Account Management
+- Smart Contacted
+- Easy & Responsive Design
+- Secured Payment
+- Login using Email or Metamask
 
