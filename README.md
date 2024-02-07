@@ -1,4 +1,4 @@
-<div>
+
 <img width="100%" alt="image" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/defcbb4d-e5ca-47a9-9e79-daa9dfac02c5">
 </div>
 
@@ -67,5 +67,32 @@ We have multiple feature in our webslite be like
 <p align="center">
 <img width="917" alt="image" src="https://github.com/Durgesh4993/WebBuy/assets/98798977/b88ebc7c-d326-4e44-aa70-988187b80ef0">
 </p>
+
+---
+
+## Full Demo video:
+
+https://github.com/Durgesh4993/WebBuy/assets/98798977/8c919095-af48-4bb8-bb54-edb7841192cf
+
+---
+
+## Team Members:
+
+<table>
+<tr>
+<td align="center" width="200"><pre><a href="https://www.linkedin.com/in/ananya-sharma-8b3126281/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/0cfe52be-4828-4572-bfe7-772de68f1014" width="200" alt="Ananya Sharma" /><br><sub>Ananya Sharma</sub></a><br>@ananya03110</pre></td>
+<td align="center" width="200"><pre><a href="https://www.linkedin.com/in/karan2322/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/38cf1f24-82b2-497f-be2e-c113a47c0553" width="200" alt="GitHub Profile picture of karan2322" /><br><sub>Karan Sharma</sub></a><br>@karan2322</pre></td>
+<td align="center" width="200"><pre><a href="https://www.linkedin.com/in/arpit-verma-00a1a5259/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/25bead4e-daaa-407e-8312-2bfe5259aeac" width="200" alt="GitHub Profile Picture of Arpit Verma"/><br><sub>Arpit Verma</sub></a><br>@Arpit0001</pre></td>
+
+</tr>
+</table>
+
+---
+ Thank You
+ 
+
+
+
+
 
 
