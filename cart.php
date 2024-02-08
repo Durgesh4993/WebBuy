@@ -8,7 +8,6 @@ foreach ($result as $row) {
     $banner_cart = $row['banner_cart'];
 }
 ?>
-
 <?php
 $error_message = '';
 if(isset($_POST['form1'])) {
