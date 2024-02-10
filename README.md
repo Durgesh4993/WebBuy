@@ -89,7 +89,7 @@ We have multiple feature in our webslite be like
 <tr>
 <td align="center" width="200"><pre><a href="https://www.linkedin.com/in/ananya-sharma-8b3126281/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/0cfe52be-4828-4572-bfe7-772de68f1014" width="200" alt="Ananya Sharma" /><br><sub>Ananya Sharma</sub></a><br>@ananya03110</pre></td>
 <td align="center" width="200"><pre><a href="https://www.linkedin.com/in/karan2322/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/38cf1f24-82b2-497f-be2e-c113a47c0553" width="200" alt="GitHub Profile picture of karan2322" /><br><sub>Karan Sharma</sub></a><br>@karan2322</pre></td>
-<td align="center" width="200"><pre><a href="https://www.linkedin.com/in/arpit-verma-00a1a5259/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/25bead4e-daaa-407e-8312-2bfe5259aeac" width="200" alt="GitHub Profile Picture of Arpit Verma"/><br><sub>Arpit Verma</sub></a><br>@Arpit0001</pre></td>
+<td align="center" width="200"><pre><a href="https://www.linkedin.com/in/arpit-verma-00a1a5259/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/8ce25925-0370-4b6e-8810-ab9c5def97d3" width="200" alt="GitHub Profile Picture of Arpit Verma"/><br><sub>Arpit Verma</sub></a><br>@Arpit0001</pre></td>
 
 </tr>
 </table>
@@ -102,6 +102,7 @@ We have multiple feature in our webslite be like
 
 
 
+![image]()
 
 
 
