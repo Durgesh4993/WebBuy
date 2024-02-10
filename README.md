@@ -102,8 +102,6 @@ We have multiple feature in our webslite be like
 
 
 
-![image]()
-
 
 
 
