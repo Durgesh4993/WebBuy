@@ -13,6 +13,7 @@ foreach ($result as $row) {
 	$i++;
 }
 ?>
+
 <?php
 if( !isset($_REQUEST['msg']) ) {
 	if(empty($_POST['transaction_info'])) {
