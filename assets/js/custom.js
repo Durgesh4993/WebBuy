@@ -21,6 +21,7 @@
             $('body').delay(350).css({
             'overflow': 'visible'
         });
+        
 
         youtubeThumb.magnificPopup({
             disableOn: 700,
