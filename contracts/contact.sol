@@ -5,6 +5,7 @@ contract Store {
     // Defining store variables
     address public immutable storeOwner;
     uint256 public storeAcc;
+
     string public storeName;
     uint256 public immutable feePercent;
     uint256 public storeSales;
